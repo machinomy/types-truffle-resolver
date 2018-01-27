@@ -1,0 +1,16 @@
+{
+  "name": "@machinomy/types-truffle-resolver",
+  "version": "0.0.1",
+  "description": "TypeScript declaration for truffle-resolver",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinomy/types-truffle-resolver.git"
+  },
+  "author": "Sergey Ukustov <sergey.ukustov@machinomy.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/machinomy/types-truffle-resolver/issues"
+  },
+  "homepage": "https://github.com/machinomy/types-truffle-resolver#readme"
+}
