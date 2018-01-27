@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/machinomy/types-truffle-resolver/issues"
   },
-  "homepage": "https://github.com/machinomy/types-truffle-resolver#readme"
+  "homepage": "https://github.com/machinomy/types-truffle-resolver#readme",
+  "dependencies": {
+    "truffle-resolver": "^4.0.1"
+  }
 }
