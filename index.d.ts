@@ -1,4 +1,5 @@
 declare module 'truffle-resolver' {
+    import truffle from 'truffle-contract'
 
     namespace Resolver {
     }
@@ -10,6 +11,7 @@ declare module 'truffle-resolver' {
 
     class Resolver {
         constructor (config: ResolverConfig)
+        require<A> (importPath: string, searchPath?: string): truffle.TruffleContract<A>
     }
 
     export = Resolver
